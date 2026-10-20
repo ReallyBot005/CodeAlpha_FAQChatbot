@@ -8,16 +8,6 @@ AskMate is a lightweight, intelligent FAQ chatbot built with Python and Streamli
 
 ---
 
-## 📸 Screenshots
-
-> *Add your screenshots here after running the application.*
-
-| Chat Interface | Sidebar |
-|---|---|
-| *(screenshot placeholder)* | *(screenshot placeholder)* |
-
----
-
 ## ✨ Features
 
 - **Natural-language question matching** — ask questions in your own words, not just exact keyword searches
