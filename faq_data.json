@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "topic": "Online Shopping & Customer Support",
+    "description": "Demonstration FAQ dataset for AskMate Intelligent FAQ Assistant. This data is fictional and created for educational purposes only.",
+    "version": "1.0",
+    "total_faqs": 30
+  },
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What are your customer support working hours?",
+      "answer": "Our customer support team is available Monday to Friday, 9:00 AM to 6:00 PM (local time). On weekends and public holidays, we offer limited support via email and live chat, with responses within 24 hours. For urgent issues, you can also use our self-service help center available 24/7.",
+      "category": "Support",
+      "alternatives": [
+        "When is support available?",
+        "What time can I contact customer service?",
+        "Are you open on weekends?",
+        "When does the help desk close?",
+        "What are the hours of operation?",
+        "Is customer service available 24 hours?"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How do I reset my password?",
+      "answer": "To reset your password: (1) Go to the login page and click 'Forgot Password'. (2) Enter the email address linked to your account. (3) Check your inbox for a password reset email (also check your spam folder). (4) Click the link in the email — it is valid for 30 minutes. (5) Enter and confirm your new password. If you do not receive the email within 5 minutes, contact our support team.",
+      "category": "Account",
+      "alternatives": [
+        "I forgot my password",
+        "How can I recover my account password?",
+        "Password reset link not working",
+        "I cannot log in to my account",
+        "How do I change my password?",
+        "Forgot my login credentials"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How do I create an account?",
+      "answer": "Creating an account is quick and free: (1) Click 'Sign Up' on the top right of the homepage. (2) Enter your full name, email address, and a secure password. (3) Agree to the Terms of Service and Privacy Policy. (4) Click 'Create Account'. (5) Verify your email address by clicking the link sent to your inbox. Once verified, your account is active and ready to use.",
+      "category": "Account",
+      "alternatives": [
+        "How do I register?",
+        "How can I sign up?",
+        "I want to open a new account",
+        "Account registration steps",
+        "How do I join your platform?",
+        "Is registration free?"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How do I track my order?",
+      "answer": "You can track your order in two ways: (1) Log in to your account, go to 'My Orders', and click on the order you want to track — you will see real-time status updates and a tracking number. (2) Use the tracking number provided in your shipment confirmation email on our Track Order page (no login required). Tracking information is usually available within 24 hours after your order is dispatched.",
+      "category": "Orders",
+      "alternatives": [
+        "Where is my order?",
+        "How can I check my delivery status?",
+        "I want to know where my package is",
+        "Order tracking number not working",
+        "When will my order arrive?",
+        "How do I find my tracking number?"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How do I cancel my order?",
+      "answer": "To cancel an order: (1) Log in and go to 'My Orders'. (2) Select the order you wish to cancel. (3) Click 'Cancel Order' and choose a reason. Orders can only be cancelled before they are dispatched for shipping. If your order has already been shipped, you will need to wait for delivery and then initiate a return. Cancelled orders are refunded to your original payment method within 5–7 business days.",
+      "category": "Orders",
+      "alternatives": [
+        "Can I cancel my order?",
+        "I want to cancel my purchase",
+        "How to stop my order from being shipped",
+        "Cancel order before delivery",
+        "I ordered by mistake, how do I cancel?",
+        "Is it possible to cancel an order already placed?"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is your return policy?",
+      "answer": "We offer a 30-day return policy from the date of delivery. Items must be unused, undamaged, and in their original packaging with all tags attached. To start a return, go to 'My Orders', select the item, and click 'Return Item'. Some categories — including perishables, digital downloads, and items marked as final sale — are not eligible for returns. Return shipping is free for defective or incorrect items.",
+      "category": "Returns",
+      "alternatives": [
+        "Can I return an item?",
+        "How many days do I have to return something?",
+        "What items can be returned?",
+        "Return policy for my purchase",
+        "I don't want this product, can I return it?",
+        "Is there a return window?"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How do I get a refund?",
+      "answer": "Once we receive and inspect your returned item, a refund will be processed within 3–5 business days. The refund is sent to your original payment method: credit/debit cards take 5–10 business days to reflect; PayPal refunds typically appear within 1–3 business days; store credit is applied instantly. You will receive a confirmation email when the refund is issued. If you have not received your refund after 10 business days, contact our support team.",
+      "category": "Returns",
+      "alternatives": [
+        "When will I get my money back?",
+        "How long does a refund take?",
+        "Refund not received",
+        "How do I request a refund?",
+        "I returned my order, where is my refund?",
+        "Money back guarantee",
+        "Refund to credit card"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept the following payment methods: Visa, Mastercard, American Express, and Discover credit/debit cards; PayPal; Apple Pay and Google Pay; Bank transfers (for orders above $500); and store gift cards and credit. All transactions are secured with 256-bit SSL encryption. We do not accept cash on delivery or cryptocurrency at this time.",
+      "category": "Payments",
+      "alternatives": [
+        "Can I pay with PayPal?",
+        "Do you accept credit cards?",
+        "What ways can I pay?",
+        "Payment options available",
+        "Do you take Apple Pay?",
+        "Can I use a debit card?",
+        "Is cash on delivery available?"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Why did my payment fail?",
+      "answer": "Payments can fail for several reasons: (1) Incorrect card details — double-check the card number, expiry date, and CVV. (2) Insufficient funds or credit limit reached. (3) Your bank declined the transaction as a security measure — contact your bank to approve the payment. (4) The billing address does not match your bank records. (5) Your card has expired. If the issue persists after verifying these details, try a different payment method or contact your bank. Our support team can also assist.",
+      "category": "Payments",
+      "alternatives": [
+        "My payment is not going through",
+        "Transaction declined",
+        "Why was my card declined?",
+        "Payment error on checkout",
+        "Card not accepted",
+        "I cannot complete my purchase",
+        "Payment keeps failing"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How much does shipping cost?",
+      "answer": "Shipping fees depend on your location and the shipping method selected at checkout: Standard Shipping (5–7 business days) is $4.99 for orders under $50; Free Standard Shipping is available for orders $50 and above; Express Shipping (2–3 business days) is $9.99; Overnight Shipping (next business day) is $19.99. International shipping rates vary by country. All applicable shipping costs are shown before payment.",
+      "category": "Shipping",
+      "alternatives": [
+        "What is the shipping fee?",
+        "How much does delivery cost?",
+        "Is there free shipping?",
+        "Do you offer free delivery?",
+        "Shipping charges",
+        "How to get free shipping?",
+        "What are the delivery charges?"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "How long does delivery take?",
+      "answer": "Delivery times vary by shipping method: Standard Shipping takes 5–7 business days; Express Shipping takes 2–3 business days; Overnight Shipping delivers the next business day (orders must be placed before 1:00 PM). International deliveries typically take 7–21 business days depending on the destination country and customs processing. Processing time is 1–2 business days before shipment. Delivery times may be longer during peak seasons or holidays.",
+      "category": "Shipping",
+      "alternatives": [
+        "When will my package arrive?",
+        "How many days for delivery?",
+        "Expected delivery time",
+        "How fast is standard shipping?",
+        "Estimated arrival date",
+        "How long does express shipping take?",
+        "When will my item be delivered?"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "I received a damaged product. What should I do?",
+      "answer": "We sincerely apologize for the inconvenience. If you received a damaged item: (1) Take clear photos of the damaged product and its packaging. (2) Contact our support team within 48 hours of delivery via email or live chat. (3) Attach the photos and your order number. (4) We will arrange a free replacement or a full refund — whichever you prefer. Please do not dispose of the damaged item or packaging until the case is resolved, as we may request it back.",
+      "category": "Orders",
+      "alternatives": [
+        "My item arrived broken",
+        "Product was damaged in shipping",
+        "Received broken item",
+        "Damaged goods on arrival",
+        "Package was crushed",
+        "Item is defective",
+        "Product arrived damaged what do I do?"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "My order has not arrived and it is past the expected delivery date.",
+      "answer": "We're sorry your order hasn't arrived yet. Please take these steps: (1) Check your tracking information using the link in your shipment confirmation email. (2) Check with neighbours or building reception in case the parcel was left there. (3) Allow 2 additional business days, as delays can sometimes occur during peak periods. (4) If it is more than 2 business days past the expected delivery date, contact our support team with your order number — we will investigate and, if confirmed lost, arrange a replacement or full refund.",
+      "category": "Orders",
+      "alternatives": [
+        "My package is late",
+        "Order not delivered",
+        "Where is my parcel?",
+        "Package not arrived",
+        "My delivery is overdue",
+        "Order is lost",
+        "I never received my order"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "How do I contact customer support?",
+      "answer": "You can reach our customer support team through the following channels: (1) Live Chat — available on our website Monday–Friday, 9 AM–6 PM. (2) Email — support@askmate-demo.com (responses within 24 hours). (3) Phone — 1-800-ASKMATE (Monday–Friday, 9 AM–5 PM). (4) Help Center — browse self-service articles at help.askmate-demo.com. Always have your order number or account email ready to speed up the process. Note: these are demonstration contact details.",
+      "category": "Support",
+      "alternatives": [
+        "How do I reach support?",
+        "I need to talk to customer service",
+        "Support email address",
+        "Customer service phone number",
+        "How do I speak to an agent?",
+        "Where can I get help?",
+        "Live chat support"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Can I change my delivery address after placing an order?",
+      "answer": "Address changes are possible only if your order has not yet been dispatched. To request a change: (1) Log in and go to 'My Orders'. (2) Select the order and click 'Request Address Change'. (3) Enter the new address and submit. Alternatively, contact our support team immediately via live chat for the fastest response. Once an order is dispatched, we cannot redirect the shipment, and you will need to contact the courier directly using your tracking number.",
+      "category": "Orders",
+      "alternatives": [
+        "I need to change my shipping address",
+        "Can I update the delivery address?",
+        "Wrong address on my order",
+        "Change address before delivery",
+        "I entered the wrong address",
+        "Modify shipping address",
+        "How to update delivery address"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "How do I update my account information?",
+      "answer": "To update your account details: (1) Log in to your account. (2) Click on your profile icon or name in the top right corner. (3) Select 'Account Settings' or 'Profile'. (4) Edit your name, email, phone number, or address as needed. (5) Click 'Save Changes'. For security, changing your email address or phone number requires re-verification. Password changes can be made from the 'Security' section of your account settings.",
+      "category": "Account",
+      "alternatives": [
+        "How do I edit my profile?",
+        "Change my email address",
+        "Update my phone number",
+        "How to change my personal details",
+        "I want to change my name on the account",
+        "Update billing address",
+        "Edit account details"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Do you offer discount codes or coupons?",
+      "answer": "Yes! We offer various discounts and promotions: (1) Newsletter discount — subscribe to our email newsletter and receive 10% off your first order. (2) Seasonal sales — we run promotions during major holidays and events. (3) Referral rewards — refer a friend and both of you receive store credit. (4) Loyalty points — earn points with every purchase, redeemable for discounts. To apply a coupon, enter the code in the 'Promo Code' field at checkout before completing your order. Coupons cannot be combined unless stated otherwise.",
+      "category": "Promotions",
+      "alternatives": [
+        "Do you have any coupons?",
+        "How do I apply a promo code?",
+        "Discount code not working",
+        "Is there a discount for new customers?",
+        "Where do I enter a coupon code?",
+        "How to get a promo code?",
+        "Are there any ongoing promotions?"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "How do I download or access my invoice?",
+      "answer": "To download your invoice: (1) Log in to your account. (2) Go to 'My Orders'. (3) Click on the relevant order. (4) Scroll down to the 'Order Details' section and click 'Download Invoice' — a PDF will be generated. Invoices are available for all completed orders and include full billing details, item descriptions, taxes, and the total amount paid. If you need an invoice with specific business details, contact our support team.",
+      "category": "Account",
+      "alternatives": [
+        "How do I get a receipt?",
+        "Where is my order invoice?",
+        "Download receipt for my order",
+        "I need a VAT invoice",
+        "How to print my order summary?",
+        "Invoice for my purchase",
+        "Can I get a billing statement?"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How do I delete my account?",
+      "answer": "To delete your account: (1) Log in and go to 'Account Settings'. (2) Scroll to the bottom and click 'Delete Account'. (3) Read the warning — deletion is permanent and cannot be undone. (4) Confirm your password and click 'Confirm Delete'. Please note: any pending orders must be resolved before deletion; store credit and loyalty points will be forfeited; order history will no longer be accessible. If you are having a temporary issue, consider deactivating your account instead of deleting it.",
+      "category": "Account",
+      "alternatives": [
+        "How do I close my account?",
+        "I want to remove my account",
+        "Can I permanently delete my profile?",
+        "How to deactivate my account?",
+        "I don't want my account anymore",
+        "Unsubscribe and delete account",
+        "Remove my personal data"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "I was charged twice for the same order.",
+      "answer": "We apologize for this error. Duplicate charges can occasionally occur due to network timeouts at checkout. Here is what to do: (1) Check your bank statement — sometimes a pending charge and the actual charge appear at the same time; the duplicate usually drops off within 3–5 business days. (2) If both charges are confirmed (not pending), contact our support team immediately with your order number, the charge amounts, and your bank statement. We will investigate and issue a full refund for the duplicate charge within 5–7 business days.",
+      "category": "Payments",
+      "alternatives": [
+        "Double charged for my order",
+        "I was billed twice",
+        "Duplicate payment on my account",
+        "Two charges for one purchase",
+        "Charged more than once",
+        "Incorrect charge on my card"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Can I exchange an item instead of returning it?",
+      "answer": "At this time, we do not offer direct exchanges. To swap an item: (1) Initiate a return for the unwanted item through 'My Orders'. (2) Once the return is approved, place a new order for the item you want. If speed is important, you can place the new order immediately — we will process your refund as soon as we receive the return. This process is the same as a return but ensures you get the desired item without waiting for the refund first.",
+      "category": "Returns",
+      "alternatives": [
+        "Can I swap my item?",
+        "How do I exchange a product?",
+        "I want a different size or colour",
+        "Exchange instead of refund",
+        "Product exchange policy",
+        "Can I get a different item?"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What should I do if I received the wrong item?",
+      "answer": "We're sorry about the mix-up! If you received the wrong item: (1) Contact our support team within 48 hours of delivery. (2) Provide your order number, a description of what you received, and a photo of the item and its label. (3) We will arrange a free return pickup and send you the correct item at no extra cost. In some cases, we may also offer a full refund if the correct item is out of stock. Please do not return the item without contacting us first.",
+      "category": "Orders",
+      "alternatives": [
+        "Wrong product delivered",
+        "I got the wrong order",
+        "Incorrect item sent to me",
+        "Received someone else's order",
+        "They sent me the wrong thing",
+        "Wrong item in my package"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How do I save items to a wishlist?",
+      "answer": "To save items to your wishlist: (1) Make sure you are logged in to your account. (2) Browse to the product you want to save. (3) Click the heart icon on the product card or product detail page. (4) The item is added to your wishlist. To view your wishlist, click on the heart icon in the top navigation bar. You can share your wishlist with others using the 'Share Wishlist' button — useful for gifting. Wishlist items can be moved to your cart with one click.",
+      "category": "Shopping",
+      "alternatives": [
+        "How do I add to wishlist?",
+        "Save items for later",
+        "Favourite products list",
+        "How to create a wishlist?",
+        "Where is my saved items?",
+        "How to bookmark a product?"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Is my personal data safe on your platform?",
+      "answer": "We take your privacy and data security seriously. All data is encrypted in transit using SSL/TLS and at rest using AES-256 encryption. We never sell your personal data to third parties. We comply with applicable data protection regulations. You can download a copy of your data or request deletion from 'Account Settings > Privacy'. Our full Privacy Policy is available on our website. Note: this is a demonstration application and does not actually collect or store personal data.",
+      "category": "Account",
+      "alternatives": [
+        "Is my information secure?",
+        "How do you protect my data?",
+        "Privacy and data security",
+        "Do you sell my data?",
+        "Is it safe to save my card details?",
+        "GDPR compliance",
+        "Data protection policy"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Can I place an order without creating an account?",
+      "answer": "Yes! We offer a Guest Checkout option. Simply add items to your cart and select 'Continue as Guest' at checkout. You will still receive an order confirmation email and can track your order using the tracking number provided. However, guest orders cannot be managed through a user account — you will not have access to order history, returns via account, or loyalty rewards. We recommend creating a free account to enjoy the full experience.",
+      "category": "Shopping",
+      "alternatives": [
+        "Can I buy without registering?",
+        "Guest checkout option",
+        "Do I need an account to order?",
+        "Shopping without an account",
+        "Checkout as guest",
+        "Is registration required to purchase?"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How do I apply a gift card or store credit?",
+      "answer": "To use a gift card or store credit: (1) Add items to your cart and proceed to checkout. (2) On the payment page, look for the 'Gift Card / Store Credit' section. (3) Enter your gift card code or click 'Apply Store Credit'. (4) The balance will be deducted from your order total. (5) If the order exceeds the gift card balance, you can pay the remaining amount with any accepted payment method. Gift cards are non-refundable and cannot be exchanged for cash.",
+      "category": "Payments",
+      "alternatives": [
+        "How do I use my gift card?",
+        "Where to enter store credit?",
+        "Redeem gift card code",
+        "Apply store credit at checkout",
+        "Gift card not working",
+        "How to use my reward points?"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 50 countries worldwide. International shipping rates and delivery times vary by destination. At checkout, enter your delivery address and the available shipping options with costs will be displayed. Please note that customs duties, import taxes, and local fees may apply — these are the responsibility of the recipient and are not included in our shipping fees. We recommend checking your country's import regulations before ordering.",
+      "category": "Shipping",
+      "alternatives": [
+        "Can you deliver to my country?",
+        "International delivery available?",
+        "Do you ship overseas?",
+        "Shipping to Europe",
+        "Shipping to India",
+        "Global shipping options",
+        "Countries you deliver to"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "How do I unsubscribe from marketing emails?",
+      "answer": "To stop receiving marketing emails: (1) Click the 'Unsubscribe' link at the bottom of any marketing email you received from us. (2) Alternatively, log in, go to 'Account Settings > Notifications', and toggle off 'Marketing Emails'. Changes take effect within 24–48 hours. Please note that unsubscribing from marketing emails will not stop transactional emails such as order confirmations, shipping updates, and password reset emails, as these are necessary for account operations.",
+      "category": "Account",
+      "alternatives": [
+        "Stop sending me promotional emails",
+        "Opt out of newsletters",
+        "How do I stop marketing messages?",
+        "Unsubscribe from emails",
+        "I don't want promotional emails",
+        "Too many emails from you"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "What should I do if I forgot the email address linked to my account?",
+      "answer": "If you cannot remember your account email: (1) Try common email addresses you use — our login page does not confirm which emails are registered for security reasons. (2) Search your inbox for past order confirmation or registration emails from us. (3) If you still cannot locate it, contact our support team via phone or live chat with your full name, billing address, and order details — we can help identify the account. For security, we cannot share the full email address, but we can confirm the domain.",
+      "category": "Account",
+      "alternatives": [
+        "I forgot my login email",
+        "Cannot remember account email",
+        "Lost access to my account email",
+        "I don't know which email I used to sign up",
+        "How to recover my account without email access",
+        "Account email retrieval"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Do you have a loyalty or rewards program?",
+      "answer": "Yes! Our loyalty program lets you earn points on every purchase: you earn 1 point for every $1 spent. Points can be redeemed at checkout — 100 points = $1 discount. You also earn bonus points for writing reviews, referring friends, and on your birthday. Points expire after 12 months of account inactivity. To check your points balance, log in and go to 'My Account > Rewards'. There is no fee to join — all registered customers are automatically enrolled.",
+      "category": "Promotions",
+      "alternatives": [
+        "Rewards program details",
+        "How do I earn loyalty points?",
+        "Points balance check",
+        "How to redeem reward points?",
+        "Are there membership benefits?",
+        "Loyalty points expiry",
+        "What is the rewards scheme?"
+      ]
+    }
+  ]
+}
